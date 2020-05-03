@@ -1,4 +1,4 @@
-# chaos monkey using Labmda
+# chaos monkey using AWS Lambda
 
 ```
 > npm install
