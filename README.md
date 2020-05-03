@@ -1,4 +1,4 @@
-# chaoes monkey using Labmda
+# chaos monkey using Labmda
 
 ```
 > npm install
